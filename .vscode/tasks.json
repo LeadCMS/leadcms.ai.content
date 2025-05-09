@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "start-gatsby-server",
+      "type": "shell",
+      "command": "cd \"${config:leadcmsCms.gatsbyPath}\" && git pull && nvm use && npm install && GATSBY_CONTENT_PATH=\"${workspaceFolder}\" PORT=${config:leadcmsCms.gatsbyPort} npm run start",
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "."
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "starting development server",
+          "endsPattern": "You can now view .* in the browser"
+        }
+      },
+      "options": {
+        "env": {
+          "GATSBY_CONTENT_PATH": "${workspaceFolder}",
+          "PORT": "{config:leadcmsCms.gatsbyPort}"
+        }
+      }
+    }
+  ]
+}

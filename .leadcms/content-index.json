@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "lastFullSyncAt": "2025-03-31T21:47:16.789Z",
+  "entries": {
+    "content/blog/remote-mdx-content-in-gatsby/index.json": {
+      "id": 23,
+      "fileType": "metadata",
+      "localPath": "content/blog/remote-mdx-content-in-gatsby/index.json",
+      "hash": "5c1aa56e56e3065e2f6f0dbd71d9bd9d",
+      "status": "synced",
+      "contentType": "blog",
+      "relatedEntryIds": [
+        "content/blog/remote-mdx-content-in-gatsby/index.mdx"
+      ],
+      "lastSyncedAt": "2025-03-31T22:16:09.143Z",
+      "lastModifiedRemote": "2025-04-01T09:02:20.976112Z"
+    },
+    "content/blog/remote-mdx-content-in-gatsby/index.mdx": {
+      "id": 23,
+      "fileType": "content",
+      "localPath": "content/blog/remote-mdx-content-in-gatsby/index.mdx",
+      "hash": "8f1092c940308fe3aab0cff354f2e9a6",
+      "status": "synced",
+      "contentType": "blog",
+      "relatedEntryIds": [
+        "content/blog/remote-mdx-content-in-gatsby/index.json"
+      ],
+      "lastModifiedRemote": "2025-04-01T09:02:20.976112Z"
+    },
+    "content/contact/contact-us/index.json": {
+      "id": 10,
+      "fileType": "metadata",
+      "contentType": "contact",
+      "localPath": "content/contact/contact-us/index.json",
+      "hash": "402397dbdb308fbb8850a9eb7780b8a2",
+      "lastSyncedAt": "2025-03-31T21:47:16.770Z",
+      "lastModifiedRemote": "2025-03-31T13:50:55.394425Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/contact/contact-us/index.mdx"
+      ]
+    },
+    "content/contact/contact-us/index.mdx": {
+      "id": 10,
+      "fileType": "content",
+      "contentType": "contact",
+      "localPath": "content/contact/contact-us/index.mdx",
+      "hash": "96dbb4d4064a6ba1cb3baee97612d3b7",
+      "lastSyncedAt": "2025-03-31T21:47:16.770Z",
+      "lastModifiedRemote": "2025-03-31T13:50:55.394425Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/contact/contact-us/index.json"
+      ]
+    },
+    "content/home/main/index.json": {
+      "id": 14,
+      "fileType": "metadata",
+      "contentType": "home",
+      "localPath": "content/home/main/index.json",
+      "hash": "f88fe54e0b7dbb5e1afc2467a78d833c",
+      "lastSyncedAt": "2025-03-31T21:47:16.777Z",
+      "lastModifiedRemote": "2025-03-31T21:50:32.28736Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/home/main/index.mdx"
+      ]
+    },
+    "content/home/main/index.mdx": {
+      "id": 14,
+      "fileType": "content",
+      "contentType": "home",
+      "localPath": "content/home/main/index.mdx",
+      "hash": "b570abb8f4411b20cdc545e8dad9e642",
+      "lastSyncedAt": "2025-03-31T21:50:32.444Z",
+      "lastModifiedRemote": "2025-03-31T21:50:32.28736Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/home/main/index.json"
+      ]
+    },
+    "content/legal/privacy/index.json": {
+      "id": 22,
+      "fileType": "metadata",
+      "contentType": "legal",
+      "localPath": "content/legal/privacy/index.json",
+      "hash": "6f131ba918de7293c8de1763d6e75939",
+      "lastSyncedAt": "2025-03-31T21:47:16.788Z",
+      "lastModifiedRemote": "2025-04-01T10:29:26.462661Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/legal/privacy/index.mdx"
+      ]
+    },
+    "content/legal/privacy/index.mdx": {
+      "id": 22,
+      "fileType": "content",
+      "contentType": "legal",
+      "localPath": "content/legal/privacy/index.mdx",
+      "hash": "d4e55685f4a977ded535d0977684344b",
+      "lastSyncedAt": "2025-04-01T10:29:26.609Z",
+      "lastModifiedRemote": "2025-04-01T10:29:26.462661Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/legal/privacy/index.json"
+      ]
+    },
+    "content/legal/terms/index.json": {
+      "id": 16,
+      "fileType": "metadata",
+      "contentType": "legal",
+      "localPath": "content/legal/terms/index.json",
+      "hash": "4fc834d43630a29025ff682de835b8ca",
+      "lastSyncedAt": "2025-03-31T21:47:16.780Z",
+      "lastModifiedRemote": "2025-04-01T10:29:26.699052Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/legal/terms/index.mdx"
+      ]
+    },
+    "content/legal/terms/index.mdx": {
+      "id": 16,
+      "fileType": "content",
+      "contentType": "legal",
+      "localPath": "content/legal/terms/index.mdx",
+      "hash": "4710665a6e57873f1598a7eef9a9e01b",
+      "lastSyncedAt": "2025-04-01T10:29:26.736Z",
+      "lastModifiedRemote": "2025-04-01T10:29:26.699052Z",
+      "status": "synced",
+      "relatedEntryIds": [
+        "content/legal/terms/index.json"
+      ]
+    }
+  }
+}

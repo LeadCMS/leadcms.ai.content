@@ -1,0 +1,19 @@
+{
+  "id": 14,
+  "title": "LeadCMS - Open-Source Sales Automation & CMS for SaaS",
+  "description": "The ultimate open-source solution for automating every step of the product sales lifecycle, built for developers and tech-savvy teams.",
+  "coverImageUrl": "",
+  "coverImageAlt": "",
+  "author": "Peter Liapin",
+  "language": "en",
+  "category": "main",
+  "tags": [
+    "SaaS",
+    "CMS",
+    "Sales Automation",
+    "Open Source"
+  ],
+  "allowComments": false,
+  "source": "",
+  "publishedAt": "2023-08-01T10:00:00Z"
+}

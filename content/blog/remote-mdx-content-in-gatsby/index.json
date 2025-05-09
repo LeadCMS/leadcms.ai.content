@@ -1,0 +1,20 @@
+{
+  "title": "Integrating MDX Content from a Third-Party CMS into Gatsby",
+  "description": "Learn how to source and render MDX content from external headless CMSs in Gatsby, including handling frontmatter and custom React components at build time.",
+  "coverImageUrl": "",
+  "coverImageAlt": "",
+  "author": "Peter Liapin",
+  "language": "en",
+  "category": "development",
+  "tags": [
+    "Gatsby",
+    "MDX",
+    "CMS",
+    "Integration",
+    "React"
+  ],
+  "allowComments": true,
+  "source": "",
+  "publishedAt": "2023-11-15T10:00:00Z",
+  "id": 23
+}

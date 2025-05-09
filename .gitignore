@@ -1,0 +1,7 @@
+.leadcms/token.json
+.leadcms/logs/*
+
+# User-specific settings
+.vscode/settings.json
+.vscode/logs/*
+

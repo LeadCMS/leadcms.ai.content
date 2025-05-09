@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch Gatsby Preview",
+      "url": "http://localhost:{config:leadcmsCms.gatsbyPort}",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "start-gatsby-server"
+    }
+  ]
+}

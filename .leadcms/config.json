@@ -1,0 +1,15 @@
+{
+  "domain": "http://localhost:45437",
+  "useLocalMediaReferences": true,
+  "previewUrls": {
+    "page": {
+      "urlPattern": "/{slug}"
+    },
+    "release": {
+      "urlPattern": "/releases/{slug}"
+    },
+    "post": {
+      "urlPattern": "/blog/{slug}"
+    }
+  }
+}

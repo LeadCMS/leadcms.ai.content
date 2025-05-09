@@ -1,0 +1,19 @@
+{
+  "id": 22,
+  "title": "Terms of Service",
+  "description": "The terms and conditions governing your use of the LeadCMS platform and services.",
+  "coverImageUrl": "",
+  "coverImageAlt": "",
+  "author": "Peter Liapin",
+  "language": "en",
+  "category": "legal",
+  "tags": [
+    "Terms",
+    "Legal",
+    "Conditions",
+    "Policy"
+  ],
+  "allowComments": false,
+  "source": "",
+  "publishedAt": "2023-10-25T10:00:00Z"
+}

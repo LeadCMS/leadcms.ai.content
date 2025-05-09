@@ -1,5 +1,4 @@
 {
-  "id": 22,
   "title": "Terms of Service",
   "description": "The terms and conditions governing your use of the LeadCMS platform and services.",
   "coverImageUrl": "",
@@ -15,5 +14,5 @@
   ],
   "allowComments": false,
   "source": "",
-  "publishedAt": "2023-10-25T10:00:00Z"
+  "id": 4
 }

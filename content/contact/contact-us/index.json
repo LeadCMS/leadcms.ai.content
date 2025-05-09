@@ -1,5 +1,4 @@
 {
-  "id": 10,
   "title": "Contact LeadCMS Team",
   "description": "Get in touch with our team for support, custom development, or any questions about the LeadCMS platform.",
   "coverImageUrl": "",
@@ -15,5 +14,5 @@
   ],
   "allowComments": false,
   "source": "",
-  "publishedAt": "2023-10-10T09:30:00Z"
+  "id": 2
 }

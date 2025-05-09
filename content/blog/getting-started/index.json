@@ -1,0 +1,22 @@
+{
+  "title": "Getting Started with LeadCMS",
+  "description": "A comprehensive guide to quickly set up and run the LeadCMS development environment",
+  "coverImageUrl": "",
+  "coverImageAlt": "",
+  "author": "Peter Liapin",
+  "language": "en",
+  "category": "post",
+  "tags": [
+    "LeadCMS",
+    "getting started",
+    "docker",
+    "migrations",
+    "secrets",
+    "development",
+    "setup"
+  ],
+  "publishedAt": "2024-06-20",
+  "allowComments": true,
+  "source": "",
+  "id": 1
+}

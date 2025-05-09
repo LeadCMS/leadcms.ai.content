@@ -2,6 +2,31 @@
   "version": 1,
   "lastFullSyncAt": "2025-03-31T21:47:16.789Z",
   "entries": {
+    "content/blog/getting-started/index.json": {
+      "id": 1,
+      "fileType": "metadata",
+      "localPath": "content/blog/getting-started/index.json",
+      "hash": "a260caa53596e50ac8fc0fd02ed186a2",
+      "status": "synced",
+      "contentType": "blog",
+      "relatedEntryIds": [
+        "content/blog/getting-started/index.mdx"
+      ],
+      "lastModifiedRemote": "2025-05-09T14:05:07.097528Z",
+      "lastSyncedAt": "2025-05-09T14:05:20.135Z"
+    },
+    "content/blog/getting-started/index.mdx": {
+      "id": 1,
+      "fileType": "content",
+      "localPath": "content/blog/getting-started/index.mdx",
+      "hash": "de6bcb82821aac128fccabc61cc46706",
+      "status": "synced",
+      "contentType": "blog",
+      "relatedEntryIds": [
+        "content/blog/getting-started/index.json"
+      ],
+      "lastModifiedRemote": "2025-05-09T14:05:07.097528Z"
+    },
     "content/blog/remote-mdx-content-in-gatsby/index.json": {
       "id": 1,
       "fileType": "metadata",
@@ -39,46 +64,46 @@
         "content/contact/contact-us/index.mdx"
       ],
       "lastSyncedAt": "2025-05-09T12:17:00.706Z",
-      "lastModifiedRemote": null
+      "lastModifiedRemote": "2025-05-09T14:05:07.12779Z"
     },
     "content/contact/contact-us/index.mdx": {
       "id": 2,
       "fileType": "content",
       "contentType": "contact",
       "localPath": "content/contact/contact-us/index.mdx",
-      "hash": "aab1a9ad5995745296a7989697ec590b",
+      "hash": "aed2429e9bd6712f0e9558bac1f0cc59",
       "status": "synced",
       "relatedEntryIds": [
         "content/contact/contact-us/index.json"
       ],
-      "lastSyncedAt": "2025-05-09T12:17:00.706Z",
-      "lastModifiedRemote": null
+      "lastSyncedAt": "2025-05-09T14:05:07.136Z",
+      "lastModifiedRemote": "2025-05-09T14:05:07.12779Z"
     },
     "content/home/main/index.json": {
       "id": 3,
       "fileType": "metadata",
       "contentType": "home",
       "localPath": "content/home/main/index.json",
-      "hash": "135942248dad6b975dc1c4764e19f5a4",
+      "hash": "da2ca9f24ec7043c49ad530a4bd4c7de",
       "status": "synced",
       "relatedEntryIds": [
         "content/home/main/index.mdx"
       ],
-      "lastSyncedAt": "2025-05-09T12:17:00.743Z",
-      "lastModifiedRemote": null
+      "lastSyncedAt": "2025-05-09T13:40:08.707Z",
+      "lastModifiedRemote": "2025-05-09T14:16:09.597743Z"
     },
     "content/home/main/index.mdx": {
       "id": 3,
       "fileType": "content",
       "contentType": "home",
       "localPath": "content/home/main/index.mdx",
-      "hash": "6a97ff1b82a5bccf1a01f7a812a0b620",
+      "hash": "4f5a05849595f92545fda6c85f521020",
       "status": "synced",
       "relatedEntryIds": [
         "content/home/main/index.json"
       ],
-      "lastSyncedAt": "2025-05-09T12:17:00.743Z",
-      "lastModifiedRemote": null
+      "lastSyncedAt": "2025-05-09T14:16:09.720Z",
+      "lastModifiedRemote": "2025-05-09T14:16:09.597743Z"
     },
     "content/legal/privacy/index.json": {
       "id": 4,

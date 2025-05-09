@@ -1,16 +1,20 @@
 {
-  "title": "LeadCMS - Open-Source Sales Automation & CMS for SaaS",
-  "description": "The ultimate open-source solution for automating every step of the product sales lifecycle, built for developers and tech-savvy teams.",
+  "title": "LeadCMS.ai - AI-Driven, Developer-First CMS & CRM for SaaS",
+  "description": "LeadCMS.ai is an AI-driven, developer-first CMS and CRM that enables SaaS teams to build landing pages, manage content, and accelerate lead generation with minimal effort.",
   "coverImageUrl": "",
   "coverImageAlt": "",
   "author": "Peter Liapin",
   "language": "en",
   "category": "main",
   "tags": [
-    "SaaS",
+    "AI",
     "CMS",
+    "CRM",
+    "Developer-First",
     "Sales Automation",
-    "Open Source"
+    "Lead Generation",
+    "Landing Pages",
+    "SaaS"
   ],
   "allowComments": false,
   "source": "",

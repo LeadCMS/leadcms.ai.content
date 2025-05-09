@@ -4,7 +4,7 @@
     {
       "label": "start-gatsby-server",
       "type": "shell",
-      "command": "cd \"${config:leadcmsCms.gatsbyPath}\" && git pull && nvm use && npm install && GATSBY_CONTENT_PATH=\"${workspaceFolder}\" PORT=${config:leadcmsCms.gatsbyPort} npm run start",
+      "command": "cd \"${config:leadCMS.gatsbyPath}\" && git pull && nvm use && npm install && GATSBY_CONTENT_PATH=\"${workspaceFolder}\" PORT=${config:leadCMS.gatsbyPort} npm run start",
       "isBackground": true,
       "problemMatcher": {
         "pattern": {
@@ -19,7 +19,7 @@
       "options": {
         "env": {
           "GATSBY_CONTENT_PATH": "${workspaceFolder}",
-          "PORT": "{config:leadcmsCms.gatsbyPort}"
+          "PORT": "{config:leadCMS.gatsbyPort}"
         }
       }
     }

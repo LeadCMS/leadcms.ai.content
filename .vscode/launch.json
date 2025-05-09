@@ -5,7 +5,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch Gatsby Preview",
-      "url": "http://localhost:{config:leadcmsCms.gatsbyPort}",
+      "url": "http://localhost:{config:leadCMS.gatsbyPort}",
       "webRoot": "${workspaceFolder}",
       "preLaunchTask": "start-gatsby-server"
     }
